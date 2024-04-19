@@ -23,6 +23,7 @@ header {
 }
 .search-form-input {
   background-color: #bbb4b8;
+  opacity: 0.7;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -31,7 +32,7 @@ header {
 }
 .search-form-button {
   background-color: #37617b;
-  opacity: 0.7;
+  opacity: 0.8;
   padding: 15px 30px;
   margin-left: 5px;
   border: none;
